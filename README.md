@@ -3,6 +3,9 @@
 This is a **Todo List App** built using **Next.js, Supabase, and Tailwind CSS**. It allows users to add, complete, and delete tasks while maintaining a modern and responsive design.
 
 ---
+![image](https://github.com/user-attachments/assets/61ae764b-0f7a-43c4-acfd-e47e176f61b2)
+
+---
 
 ### Features  
 
